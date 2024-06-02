@@ -1,0 +1,7 @@
+C:\Users\kenda\OneDrive\Documentos\Programacion2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\Users\kenda\OneDrive\Documentos\Programacion2\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\Users\kenda\OneDrive\Documentos\Programacion2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\Users\kenda\OneDrive\Documentos\Programacion2\Ejercicio2\obj\Debug\Ejercicio2.csproj.AssemblyReference.cache
+C:\Users\kenda\OneDrive\Documentos\Programacion2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\kenda\OneDrive\Documentos\Programacion2\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\Users\kenda\OneDrive\Documentos\Programacion2\Ejercicio2\obj\Debug\Ejercicio2.pdb
